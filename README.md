@@ -1,2 +1,2 @@
 ###
-simple rest api with python
+simple rest api with flask
